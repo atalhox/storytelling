@@ -1,4 +1,4 @@
-# Estrutura Narrativa da Jornada do Herói
+# A Jornada do Herói
 
 ## 1. Introdução
 A Jornada do Herói é um modelo narrativo amplamente utilizado na literatura, no cinema e em outras formas de narrativa. Criado por Joseph Campbell no livro "O Herói de Mil Faces", esse modelo descreve um padrão recorrente de desenvolvimento da história, estruturando a evolução do protagonista.
