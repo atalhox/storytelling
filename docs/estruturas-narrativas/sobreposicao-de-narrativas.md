@@ -1,7 +1,9 @@
 # Sobreposição de Narrativas
 
 ## 1. Introdução
-A sobreposição de narrativas é uma técnica utilizada para contar histórias interconectadas, criando uma experiência mais rica e complexa para o público. Esse método é amplamente empregado em literatura, cinema, séries de TV e conteúdo digital para maximizar o envolvimento do espectador.
+A sobreposição de narrativas é uma técnica utilizada para contar histórias interconectadas, criando uma experiência mais rica e complexa para o público. 
+
+Esse método é amplamente empregado em literatura, cinema, séries de TV e conteúdo digital para maximizar o envolvimento do espectador.
 
 ## 2. Objetivo
 Este documento tem como objetivo apresentar a estrutura da sobreposição de narrativas, fornecer exemplos reais e fictícios e demonstrar como essa técnica pode ser aplicada a conteúdos para redes sociais.
