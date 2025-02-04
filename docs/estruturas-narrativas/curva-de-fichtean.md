@@ -1,4 +1,4 @@
-# Estrutura Narrativa Curva de Fichtean
+# Curva de Fichtean
 
 ## 1. Introdução
 A **Curva de Fichtean** é um modelo narrativo que enfatiza o crescimento contínuo da tensão ao longo da história, sem a necessidade de uma longa introdução. 
