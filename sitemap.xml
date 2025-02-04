@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://atalhox.github.io/storytelling/</loc>
-         <lastmod>2025-02-01</lastmod>
+         <lastmod>2025-02-04</lastmod>
+    </url>
+    <url>
+         <loc>https://atalhox.github.io/storytelling/estruturas-narrativas/a-montanha/</loc>
+         <lastmod>2025-02-04</lastmod>
     </url>
     <url>
          <loc>https://atalhox.github.io/storytelling/estruturas-narrativas/jornada-do-heroi/</loc>
-         <lastmod>2025-02-01</lastmod>
+         <lastmod>2025-02-04</lastmod>
     </url>
 </urlset>
