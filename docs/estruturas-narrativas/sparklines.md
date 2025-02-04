@@ -1,4 +1,4 @@
-# Estrutura Narrativa Sparklines
+# Sparklines
 
 ## 1. Introdução
 A estrutura narrativa **Sparklines** foi proposta por Nancy Duarte e é amplamente utilizada em apresentações, discursos e storytelling visual. 
