@@ -1,4 +1,4 @@
-# Estrutura Narrativa Efeito Rashomon
+# Efeito Rashomon
 
 ## 1. Introdução
 A estrutura narrativa **Efeito Rashomon** é um modelo em que a mesma história é contada a partir de diferentes perspectivas, geralmente conflitantes. 

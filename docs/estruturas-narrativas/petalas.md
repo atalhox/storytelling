@@ -1,4 +1,4 @@
-# Estrutura Narrativa Pétalas
+# Pétalas
 
 ## 1. Introdução
 A estrutura narrativa **Pétalas** é um modelo não linear onde diferentes histórias ou perspectivas são apresentadas separadamente, mas giram em torno de um tema central. 

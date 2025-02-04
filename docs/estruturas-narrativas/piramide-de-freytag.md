@@ -1,4 +1,4 @@
-# Estrutura Narrativa Pirâmide de Freytag
+# Pirâmide de Freytag
 
 ## 1. Introdução
 A **Pirâmide de Freytag** é um modelo narrativo que descreve a estrutura dramática em cinco atos, criado pelo escritor e teórico alemão Gustav Freytag. 
