@@ -1,7 +1,9 @@
-# Estrutura Narrativa In Media Res
+# In Media Res
 
 ## 1. Introdução
-A estrutura narrativa **In Media Res** é um recurso narrativo que inicia a história no meio da ação, em vez de começar do início cronológico dos eventos. Essa abordagem gera imersão imediata e desperta a curiosidade do público, incentivando-o a buscar contexto e compreensão sobre os eventos passados e futuros.
+A estrutura narrativa **In Media Res** é um recurso narrativo que inicia a história no meio da ação, em vez de começar do início cronológico dos eventos. 
+
+Essa abordagem gera imersão imediata e desperta a curiosidade do público, incentivando-o a buscar contexto e compreensão sobre os eventos passados e futuros.
 
 ## 2. Objetivo
 Este documento tem como objetivo apresentar a estrutura **In Media Res**, fornecer exemplos de sua aplicação e demonstrar como essa técnica pode ser utilizada na criação de conteúdo para redes sociais, literatura e audiovisual.
